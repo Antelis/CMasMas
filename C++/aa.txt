@@ -1,0 +1,18 @@
+sudo poweroff
+
+// "Descripcion del programa"
+// Andres Benjamin Antelis Moreno A01637683
+// XX/11/2022
+#include <iostream>
+using namespace std;
+#include <cmath>
+
+<< endl
+
+Only print X decimal places
+#include <iostream>
+#include <iomanip>
+    double d = 122.345;
+    std::cout << std::fixed;
+    std::cout << std::setprecision(2);
+    std::cout << d;
